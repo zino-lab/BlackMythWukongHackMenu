@@ -1,4 +1,4 @@
-# [Go to the release]()
+# [Go to the release](https://github.com/zino-lab/BlackMythWukongHackMenu/releases/tag/1)
 
 # Instructions:
 - Go to release
